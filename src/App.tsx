@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { createRoot, hydrateRoot } from 'react-dom/client'
-import { createViewState, JBrowseApp } from '@jbrowse/react-app'
+import { createViewState, JBrowseApp } from '@jbrowse/react-app2'
 
 import config from './config'
 

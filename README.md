@@ -1,12 +1,7 @@
-# farm with @jbrowse/react-app
+# farm with @jbrowse/react-app2
 
-This is a demo of using the main @jbrowse/react-app with farm (see
+This is a demo of using @jbrowse/react-app2 with farm (see
 https://github.com/farm-fe/farm)
-
-This particular demo includes several polyfills that are needed for JBrowse
-including the Buffer polyfill
-
-## Demo of `@jbrowse/react-app` with farm
 
 See this app running at https://jbrowse.org/demos/app-farm/.
 
