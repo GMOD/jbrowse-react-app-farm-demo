@@ -80,9 +80,9 @@
     debug "^4.3.1"
 
 "@babel/types@^7.27.1", "@babel/types@^7.28.0":
-  version "7.28.0"
-  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.28.0.tgz#2fd0159a6dc7353933920c43136335a9b264d950"
-  integrity sha512-jYnje+JyZG5YThjHiF28oT4SIZLnYOcSBb6+SDaFIyzDVSkXQmQQYclJ2R+YxcdmK0AX6x1E5OQNtuh3jHDrUg==
+  version "7.28.1"
+  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.28.1.tgz#2aaf3c10b31ba03a77ac84f52b3912a0edef4cf9"
+  integrity sha512-x0LvFTekgSX+83TI28Y9wYPUfzrnl2aT5+5QLnO6v7mSJYtEEevuDRN0F0uSHRk1G1IWZC43o00Y0xDDrpBGPQ==
   dependencies:
     "@babel/helper-string-parser" "^7.27.1"
     "@babel/helper-validator-identifier" "^7.27.1"
@@ -1515,7 +1515,7 @@
   dependencies:
     "@babel/runtime" "^7.27.6"
 
-"@mui/utils@^7.1.1", "@mui/utils@^7.2.0":
+"@mui/utils@^7.2.0":
   version "7.2.0"
   resolved "https://registry.yarnpkg.com/@mui/utils/-/utils-7.2.0.tgz#31062697b41aa8ea8ef04e3d3fadca1dec3e1de1"
   integrity sha512-O0i1GQL6MDzhKdy9iAu5Yr0Sz1wZjROH1o3aoztuivdCXqEeQYnEjTDiRLGuFxI9zrUbTHBwobMyQH5sNtyacw==
@@ -1551,24 +1551,24 @@
     robust-predicates "^3.0.2"
 
 "@mui/x-data-grid@^8.0.0":
-  version "8.7.0"
-  resolved "https://registry.yarnpkg.com/@mui/x-data-grid/-/x-data-grid-8.7.0.tgz#8193a43bda6660f6906306b6f48dfbf8088963d0"
-  integrity sha512-3hVjnADSBXEd/7f+CHlxTNhqJrnRL0XkTbvI+yfttPuqLHYQJwNUR7p7d/VtyRcR6QlaK19+Bu8Q6u0Ygmw/PQ==
+  version "8.8.0"
+  resolved "https://registry.yarnpkg.com/@mui/x-data-grid/-/x-data-grid-8.8.0.tgz#e428d692f6a14edb3cc1664def39492be5da9777"
+  integrity sha512-xWoBmxHi5JvT0QvAYGYJYNy4DEi+Lez+lrsqw3YV7z0jEYyJoV9vjFCiFE4QmG6IPg62B1gZHYE5AkDLFCvPkw==
   dependencies:
     "@babel/runtime" "^7.27.6"
-    "@mui/utils" "^7.1.1"
-    "@mui/x-internals" "8.7.0"
+    "@mui/utils" "^7.2.0"
+    "@mui/x-internals" "8.8.0"
     clsx "^2.1.1"
     prop-types "^15.8.1"
     use-sync-external-store "^1.5.0"
 
-"@mui/x-internals@8.7.0":
-  version "8.7.0"
-  resolved "https://registry.yarnpkg.com/@mui/x-internals/-/x-internals-8.7.0.tgz#5266f501fd96a068d4ac7312771238df2fc55d61"
-  integrity sha512-1aduds7L2i6t0HIFNlqG4UB07SVEg+wcnJ9GGu8B/X8EVwO72Rt+rc8ZlqK10ooscq1AlTwi2dd0q+hz+aWk+Q==
+"@mui/x-internals@8.8.0":
+  version "8.8.0"
+  resolved "https://registry.yarnpkg.com/@mui/x-internals/-/x-internals-8.8.0.tgz#ffaf6cd1cfdd7dd7376236637312deac83a94e85"
+  integrity sha512-qTRK5oINkAjZ7sIHpSnESLNq1xtQUmmfmGscYUSEP0uHoYh6pKkNWH9+7yzggRHuTv+4011VBwN9s+efrk+xZg==
   dependencies:
     "@babel/runtime" "^7.27.6"
-    "@mui/utils" "^7.1.1"
+    "@mui/utils" "^7.2.0"
     reselect "^5.1.1"
 
 "@nodelib/fs.scandir@2.1.5":
