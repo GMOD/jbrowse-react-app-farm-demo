@@ -14,20 +14,20 @@
     "postdeploy": "AWS_PAGER=\"\" aws cloudfront  create-invalidation --distribution-id E13LGELJOT4GQO --paths \"/demos/app-farm/*\""
   },
   "dependencies": {
-    "@jbrowse/core": "^3.0.0",
-    "@jbrowse/react-app2": "^3.0.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "rimraf": "^6.0.1"
+    "@jbrowse/core": "^4.0.4",
+    "@jbrowse/react-app2": "^4.0.4",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "rimraf": "^6.1.2"
   },
   "devDependencies": {
     "@farmfe/cli": "^1.0.2",
     "@farmfe/core": "^1.1.13",
     "@farmfe/plugin-react": "^1.0.1",
-    "@types/react": "^19.0.0",
-    "@types/react-dom": "^19.0.0",
-    "core-js": "^3.36.1",
-    "prettier": "^3.3.2",
-    "react-refresh": "^0.14.0"
+    "@types/react": "^19.2.8",
+    "@types/react-dom": "^19.2.3",
+    "core-js": "^3.47.0",
+    "prettier": "^3.8.0",
+    "react-refresh": "^0.18.0"
   }
 }
